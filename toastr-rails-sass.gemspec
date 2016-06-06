@@ -29,8 +29,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.23"
   s.summary = "Toastr: Simple javascript toast notifications"
-
-  s.add_dependency(%q<sass-rails>, ["~> 3.2"])
-
+  
 end
 
